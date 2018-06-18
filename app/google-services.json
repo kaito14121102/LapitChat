@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "630875074586",
+    "firebase_url": "https://chatlapit-963aa.firebaseio.com",
+    "project_id": "chatlapit-963aa",
+    "storage_bucket": "chatlapit-963aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630875074586:android:d01952d9823b9a33",
+        "android_client_info": {
+          "package_name": "com.example.minh.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630875074586-pni2dcvtrc6cs2tl02mb0fgkt7fnkgmt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "630875074586-pni2dcvtrc6cs2tl02mb0fgkt7fnkgmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8SwBdFR8PWd_wzX0oPwsaP6TL_KCBZcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

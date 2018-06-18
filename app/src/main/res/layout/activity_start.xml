@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent"
+    tools:context="com.example.minh.lapitchat.StartActivity">
+
+    <TextView
+        android:layout_marginTop="250dp"
+        android:textColor="#fff"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcom to Lapit \n      Chat App"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="24dp" />
+    <Button
+        android:background="@color/colorAccent"
+        android:textColor="#fff"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp"
+        android:id="@+id/btn_already_account"
+        android:layout_gravity="center"
+        android:layout_marginTop="68dp"
+        android:text="ALREADY HAVE ACCOUNT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <Button
+        android:background="#fff"
+        android:textColor="@color/colorPrimary"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:id="@+id/btn_register"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/need_a_new_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
